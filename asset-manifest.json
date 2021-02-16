@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/the-ledges-links/static/js/main.17440062.chunk.js",
+    "main.js.map": "/the-ledges-links/static/js/main.17440062.chunk.js.map",
+    "runtime-main.js": "/the-ledges-links/static/js/runtime-main.37ffc2f9.js",
+    "runtime-main.js.map": "/the-ledges-links/static/js/runtime-main.37ffc2f9.js.map",
+    "static/js/2.b1911588.chunk.js": "/the-ledges-links/static/js/2.b1911588.chunk.js",
+    "static/js/2.b1911588.chunk.js.map": "/the-ledges-links/static/js/2.b1911588.chunk.js.map",
+    "index.html": "/the-ledges-links/index.html",
+    "static/js/2.b1911588.chunk.js.LICENSE.txt": "/the-ledges-links/static/js/2.b1911588.chunk.js.LICENSE.txt",
+    "static/media/background.4fe4d764.jpg": "/the-ledges-links/static/media/background.4fe4d764.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37ffc2f9.js",
+    "static/js/2.b1911588.chunk.js",
+    "static/js/main.17440062.chunk.js"
+  ]
+}
