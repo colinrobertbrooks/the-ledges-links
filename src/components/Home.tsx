@@ -10,13 +10,7 @@ const Home = () => {
         <h1 className="text-center">The Ledges Links</h1>
         <ul className="list-group list-group-flush py-1">
           <li className="list-group-item">
-            <a
-              href="https://docs.google.com/document/d/1zHwM5Mjj3d5iH7rrKZhuvNMbyzx5hAkr-S18BhwVdF4/edit?usp=sharing"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Back Kitchen Heater
-            </a>
+            <Link to="/appliances">Appliances</Link>
           </li>
           <li className="list-group-item">
             <a
@@ -26,9 +20,6 @@ const Home = () => {
             >
               Internet
             </a>
-          </li>
-          <li className="list-group-item">
-            <Link to="/appliances">Appliances</Link>
           </li>
         </ul>
       </div>
