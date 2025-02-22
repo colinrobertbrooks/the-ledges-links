@@ -8,7 +8,7 @@ Links for The Ledges
 
 ## Develop
 
-`$ npm start`
+`$ npm dev`
 
 ## Build
 
@@ -20,4 +20,4 @@ Links for The Ledges
 
 ## Boilerplate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [TypeScript](https://create-react-app.dev/docs/adding-typescript/).
+This project was bootstrapped with [Vite](https://vitejs.dev/) and [TypeScript](https://vitejs.dev/guide/features.html#typescript).
