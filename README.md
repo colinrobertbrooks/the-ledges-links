@@ -14,6 +14,10 @@ Links for The Ledges
 
 `$ npm run build`
 
+## Preview
+
+`$ npm run preview`
+
 ## Deploy
 
 `$ npm run deploy`
