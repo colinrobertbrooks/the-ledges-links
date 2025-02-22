@@ -1,10 +1,10 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { GlobalStyles } from "../styles";
 import Home from "./Home";
 import Appliances from "./Appliances";
 
 const App = () => (
-  <Router basename={import.meta.env.BASE_URL}>
+  <Router>
     <GlobalStyles />
     <div className="h-100 d-flex align-items-center justify-content-center">
       <div className="container">
